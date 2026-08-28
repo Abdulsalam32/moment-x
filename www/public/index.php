@@ -5,4 +5,3 @@
 echo "h2>Hej php </h2";
 ?>
 
-<h2>I love big balls</h2>
