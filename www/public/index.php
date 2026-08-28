@@ -5,4 +5,4 @@
 echo "h2>Hej php </h2";
 ?>
 
-<h1>I love big niges</h1>
+<h1>Hej jag heter ahmad</h1>
